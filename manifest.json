@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Prettify Jenkins",
+  "description": "Make jenkins ansi text look better",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "run_at": "document_idle",
+      "matches": ["https://jenkins.example.com/*"],
+      "js": ["jquery.slim.min.js", "ansi_up.js", "ansi_jenkins.js"]
+    }
+  ],
+  "permissions": [
+    "tabs"
+  ]
+}
