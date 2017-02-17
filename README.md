@@ -5,7 +5,11 @@ Take ANSI jenkins output and make it look like normal, full colour, console outp
 
 # installation
 
-If you work with me at Appboy, the CRX will just work. If you don't:
+## If you work with me at Appboy
+
+the CRX will just work if you download it.
+
+## If you don't use the same jenkins instance as me:
 
  1.  Check out the repo
  2.  in `manifest.json` replace `jenkins.example.com` with the base URI of your jenkins instance
