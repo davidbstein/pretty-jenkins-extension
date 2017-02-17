@@ -14,7 +14,7 @@ Take ANSI jenkins output and make it look like normal, full colour, console outp
 
 ## If you work with me at Appboy
 
-the CRX will just work if you download it.
+[the CRX](https://github.com/davidbstein/pretty-jenkins-extension/blob/master/pretty-jenkins-extension.crx?raw=true) will just work if you download it.
 
 ## If you don't use the same jenkins instance as me:
 
