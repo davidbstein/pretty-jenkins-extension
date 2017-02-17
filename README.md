@@ -2,6 +2,13 @@
 
 Take ANSI jenkins output and make it look like normal, full colour, console output.
 
+## before
+
+![before](https://www.dropbox.com/s/wms7i8w6xyv40v8/Screenshot%202017-02-01%2014.40.56.png?dl=1)
+
+## after
+
+![after](https://www.dropbox.com/s/8nrd968gj6o0ys7/Screenshot%202017-02-01%2014.40.45.png?dl=1#1)
 
 # installation
 
